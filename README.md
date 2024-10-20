@@ -25,7 +25,7 @@ This application is perfect for:
 
 ## 🎉 Live Demo
 
-Check out the live version of the app [here](#https://akhilstempconvert.netlify.app/)
+Check out the live version of the app [here](https://akhilstempconvert.netlify.app/)
 
 ## 🤝 Contributing
 
